@@ -1,4 +1,4 @@
-// 全局变量
+//全局变量
 var ap_m = 0;
 var cn_m = 0;
 var ch_m = 0;
